@@ -24,42 +24,53 @@ Exploratory Data Analysis (EDA)
 1. Gender Analysis
 Count and total purchase amount by gender.
 Insight: Helps identify which gender group spends more overall.
+![Alt text](path/to/image.png)
 
 2. Age Group Analysis
 Distribution of purchases across age groups and genders.
 Insight: Identifies the age group with the most transactions and highest revenue.
+![Alt text](path/to/image.png)
 
 3. State-wise Analysis
 Top 10 states by number of orders and total revenue.
 Insight: Pinpoints geographic regions contributing most to business.
+![Alt text](path/to/image.png)
 
 4. Marital Status Analysis
 Purchase count and total amount by marital status, segmented by gender.
 Insight: Understands how marital status influences spending habits.
+![Alt text](path/to/image.png)
 
 5. Occupation Analysis
 Count and amount of purchases per occupation.
 Insight: Identifies professions most engaged with the brand.
+![Alt text](path/to/image.png)
 
 6. Product Category Analysis
 Popularity and revenue contribution by product category.
 Insight: Highlights best-selling categories for marketing focus.
+![Alt text](path/to/image.png)
 
 Additional Analytical Questions
 1. Which age group contributes most to each product category (by gender)?
 Grouped by Product_Category, Age Group, and Gender. Used bar plots to visualize segment-specific preferences.
+![Alt text](path/to/image.png)
 
 2. How does spending vary by marital status across age groups?
 Analyzed age group vs. marital status vs. total amount spent.
+![Alt text](path/to/image.png)
 
 3. Which states generate highest revenue?
 Summarized state-wise order volume and revenue.
+![Alt text](path/to/image.png)
 
 4. Do specific occupations prefer particular product categories?
 Cross-tabulated Occupation and Product_Category for total amount spent.
+![Alt text](path/to/image.png)
 
 5. Correlation between age and spending by gender?
 Scatter plot of Age vs. Amount, hue by Gender.
+![Alt text](path/to/image.png)
 
 Key Findings
 1. The 26–35 age group is the most active and spends the most.
