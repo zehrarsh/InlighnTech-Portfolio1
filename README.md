@@ -39,7 +39,7 @@ Insight: Pinpoints geographic regions contributing most to business.
 4. Marital Status Analysis
 Purchase count and total amount by marital status, segmented by gender.
 Insight: Understands how marital status influences spending habits.
-![Alt text](path/to/image.png)
+![Alt text](MaritalStatus.png)
 
 5. Occupation Analysis
 Count and amount of purchases per occupation.
