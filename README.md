@@ -34,7 +34,7 @@ Insight: Identifies the age group with the most transactions and highest revenue
 3. State-wise Analysis
 Top 10 states by number of orders and total revenue.
 Insight: Pinpoints geographic regions contributing most to business.
-![Alt text](path/to/image.png)
+![Alt text](Statewise.png)
 
 4. Marital Status Analysis
 Purchase count and total amount by marital status, segmented by gender.
