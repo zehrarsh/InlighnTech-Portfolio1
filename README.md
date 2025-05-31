@@ -49,7 +49,7 @@ Insight: Identifies professions most engaged with the brand.
 6. Product Category Analysis
 Popularity and revenue contribution by product category.
 Insight: Highlights best-selling categories for marketing focus.
-![Alt text](path/to/image.png)
+![Alt text](ProductCategory.png)
 
 Additional Analytical Questions
 1. Which age group contributes most to each product category (by gender)?
