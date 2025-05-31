@@ -66,7 +66,7 @@ Summarized state-wise order volume and revenue.
 
 4. Do specific occupations prefer particular product categories?
 Cross-tabulated Occupation and Product_Category for total amount spent.
-![Alt text](path/to/image.png)
+![Alt text](Add4.png)
 
 5. Correlation between age and spending by gender?
 Scatter plot of Age vs. Amount, hue by Gender.
