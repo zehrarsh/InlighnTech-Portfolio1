@@ -58,7 +58,7 @@ Grouped by Product_Category, Age Group, and Gender. Used bar plots to visualize 
 
 2. How does spending vary by marital status across age groups?
 Analyzed age group vs. marital status vs. total amount spent.
-![Alt text](path/to/image.png)
+![Alt text](Add2.png)
 
 3. Which states generate highest revenue?
 Summarized state-wise order volume and revenue.
