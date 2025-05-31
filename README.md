@@ -62,7 +62,7 @@ Analyzed age group vs. marital status vs. total amount spent.
 
 3. Which states generate highest revenue?
 Summarized state-wise order volume and revenue.
-![Alt text](path/to/image.png)
+![Alt text](Add3.png)
 
 4. Do specific occupations prefer particular product categories?
 Cross-tabulated Occupation and Product_Category for total amount spent.
