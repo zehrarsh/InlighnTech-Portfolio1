@@ -24,7 +24,7 @@ Exploratory Data Analysis (EDA)
 1. Gender Analysis
 Count and total purchase amount by gender.
 Insight: Helps identify which gender group spends more overall.
-![Alt text]([path/to/image.png](https://github.com/zehrarsh/InlighnTech-Portfolio1/blob/main/GenderAnalysis.png)](https://github.com/zehrarsh/InlighnTech-Portfolio1/blob/main/GenderAnalysis.png))
+![Alt text](GenderAnalysis.png)
 
 2. Age Group Analysis
 Distribution of purchases across age groups and genders.
