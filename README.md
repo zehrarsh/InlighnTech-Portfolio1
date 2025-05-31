@@ -70,7 +70,7 @@ Cross-tabulated Occupation and Product_Category for total amount spent.
 
 5. Correlation between age and spending by gender?
 Scatter plot of Age vs. Amount, hue by Gender.
-![Alt text](path/to/image.png)
+![Alt text](Add5.png)
 
 Key Findings
 1. The 26–35 age group is the most active and spends the most.
