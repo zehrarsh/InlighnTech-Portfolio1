@@ -44,7 +44,7 @@ Insight: Understands how marital status influences spending habits.
 5. Occupation Analysis
 Count and amount of purchases per occupation.
 Insight: Identifies professions most engaged with the brand.
-![Alt text](path/to/image.png)
+![Alt text](Occupation.png)
 
 6. Product Category Analysis
 Popularity and revenue contribution by product category.
