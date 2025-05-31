@@ -29,7 +29,7 @@ Insight: Helps identify which gender group spends more overall.
 2. Age Group Analysis
 Distribution of purchases across age groups and genders.
 Insight: Identifies the age group with the most transactions and highest revenue.
-![Alt text](path/to/image.png)
+![Alt text](AgeGroupAnalysis.png)
 
 3. State-wise Analysis
 Top 10 states by number of orders and total revenue.
