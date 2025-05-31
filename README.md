@@ -54,7 +54,7 @@ Insight: Highlights best-selling categories for marketing focus.
 Additional Analytical Questions
 1. Which age group contributes most to each product category (by gender)?
 Grouped by Product_Category, Age Group, and Gender. Used bar plots to visualize segment-specific preferences.
-![Alt text](path/to/image.png)
+![Alt text](Add1.png)
 
 2. How does spending vary by marital status across age groups?
 Analyzed age group vs. marital status vs. total amount spent.
